@@ -17,7 +17,7 @@ In this project, we're assigned to 3 tasks
 
 ## YouTube Video
 
-* [Sophia Wu's Video](https://youtu.be/zjtrIXy60ko)
+* [Sophia Wu's Video](https://youtu.be/zjtrIXy60ko)--YouTube Video link here
 
 ## Analysis Files
 
