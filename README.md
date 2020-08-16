@@ -32,12 +32,13 @@ In this project, we're assigned to 3 tasks
 
 
 ## Conclussion:  
-# Top factors  for Attrition  (Accuracy: 0.849387 ,Specificity: 0.8587652 and Sensitivity: 0.6427007 )
+##Top factors  for Attrition  
+(Accuracy: 0.849387 ,Specificity: 0.8587652 and Sensitivity: 0.6427007 )
 JobSatisfaction
 OverTIme
 Age
 JobRole
-# Top factors for salary with RMSE 1203
+##Top factors for salary with RMSE 1203
 Job level
 Total Working years
 Age
