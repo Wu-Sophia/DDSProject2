@@ -24,7 +24,7 @@ In this project, we're assigned to 3 tasks
 
 ## Presentations
 * [DDS project2 Sophia.pptx(pptx)](https://github.com/sophiawu1006/DDSProject2/blob/master/DDS%20project2%20Sophia.pptx)
-* [DDS-Project2--SophiaWu.html(HTML)](https://github.com/sophiawu1006/DDSProject2/blob/master/DDS-Project2--SophiaWu.html)
+* [DDS-Project2--SophiaWu.html(HTML)](https://rpubs.com/sophiawu1006/649392)
 
 ## Data
 
