@@ -1,5 +1,5 @@
 
-# BeerAnalysis
+# DDS Project2
 
 Created by [Sophia Wu] 
 Github link:https://github.com/sophiawu1006/DDSProject2
