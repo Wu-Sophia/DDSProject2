@@ -23,7 +23,7 @@ In this project, we're assigned to 3 tasks
 * [DDSProject2 SophiaWu.Rmd](https://github.com/sophiawu1006/DDSProject2/blob/master/DDS%20Project2-%20SophiaWu.Rmd) - - A markdown file with detailed analysis
 
 ## Presentations
-
+* [DDS project2 Sophia.pptx(pptx)](https://github.com/sophiawu1006/DDSProject2/blob/master/DDS%20project2%20Sophia.pptx)
 * [DDS-Project2--SophiaWu.html(HTML)](https://github.com/sophiawu1006/DDSProject2/blob/master/DDS-Project2--SophiaWu.html)
 
 ## Data
@@ -32,13 +32,16 @@ In this project, we're assigned to 3 tasks
 
 
 ## Conclussion:  
-##Top factors  for Attrition  
+#Top factors  for Attrition  
 (Accuracy: 0.849387 ,Specificity: 0.8587652 and Sensitivity: 0.6427007 )
+
 JobSatisfaction
 OverTIme
 Age
 JobRole
-##Top factors for salary with RMSE 1203
+
+#Top factors for salary with RMSE 1203
+
 Job level
 Total Working years
 Age
