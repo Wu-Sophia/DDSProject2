@@ -29,7 +29,9 @@ In this project, we're assigned to 3 tasks
 
 ## Data
 
-* [`CaseStudy2-data.csv`](https://github.com/sophiawu1006/DDSProject2/blob/master/CaseStudy2-data.csv)
+* [`CaseStudy2-data.csv`](https://github.com/sophiawu1006/DDSProject2/blob/master/CaseStudy2-data.csv)-Case study data
+* [`Case2PredictionsSophiaWu Salary.csv`](https://github.com/sophiawu1006/DDSProject2/blob/master/Case2PredictionsSophiaWu%20Salary.csv)-Prediction for Salary
+* [`Case2PredictionsSophiaWuAttrition.csv`](https://github.com/sophiawu1006/DDSProject2/blob/master/Case2PredictionsSophiaWuAttrition.csv)-Prediction for Attrition
 
 
 ## Conclussion:  
